@@ -38,5 +38,5 @@ git status
 
 ```bash
 git add .
-git add nombredelArchivo.xyz
+git add nombredelArchivo.extensión
 ```
